@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+### </> LeetCode
+![LeetCode Stats](https://leetcode.card.workers.dev/hsharma1234?theme=dark&font=milonga&extension=null)
 <!--
 **hsharma123/hsharma123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
