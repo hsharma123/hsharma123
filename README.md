@@ -1,6 +1,9 @@
 # Hi there 👋
 ## 💫 About Me
     I'm a Frontend Developer passionate about creating dynamic, user-friendly, and responsive web applications. 🚀
+   ## 🌟 Experience:
+     🖌️ 2 years as a Frontend Designer, specializing in creating visually appealing and user-friendly interfaces.
+     💻 6 months as a Frontend Developer, focusing on building responsive and dynamic web applications.
    ## 🛠 Skills & Expertise
    ##### Languages: JavaScript, HTML, CSS
    ##### Frameworks & Libraries: React, Redux, jQuery
